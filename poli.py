@@ -1,0 +1,3 @@
+#!usrbinpython
+ 
+print("Hello, Poli!")
